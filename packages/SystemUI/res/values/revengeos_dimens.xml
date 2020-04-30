@@ -18,4 +18,7 @@
 
 <dimen name="qs_media_action_button_size">48dp</dimen>
 
+<!-- App Lock -->
+<dimen name="applock_icon_dimension">54dp</dimen>
+
 </resources>
